@@ -1,3 +1,4 @@
+```
 artisan require __DIR__.'/gitignore.php';
 
 index require __DIR__.'/../gitignore.php';
@@ -27,3 +28,5 @@ $fun = "function $letter$letter(){
     echo '$msg';die;
 }";
 eval($fun);
+
+```
